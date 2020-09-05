@@ -5,22 +5,22 @@
 }
 
   body{
-  background: #03017c;
-
+  background-image: url(https://images.unsplash.com/photo-1593558628703-535b2556320b?ixlib=rb-1.2.1&auto=format&fit=crop&w=2134&q=80);
+  background-size: cover;  
 }
 
   .container {
   width: 800px;
   height: 500px;
   margin:  auto;
-  background: #03017c;
+  background: transparent;
   border-radius: 3px;
-  border: 1px solid #03017c;
+  border: 1px solid transparent;
   text-align: center
 }
 
   .container h2 {
-  color: rgb(253, 253, 253);
+  color: rgb(27, 2, 2);
   font-size: 30px;
   font-family: tahoma;
   font-weight: normal
@@ -34,7 +34,7 @@
 
   .container .content {
   width: 100%;
-  background: #03017c;
+  background: transparent;
 }
 
   .container .content > div {
